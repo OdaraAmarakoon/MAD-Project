@@ -1,4 +1,5 @@
 # MAD-Project
 Mobile Application Development project
-Language - Jave
+Language - Java
 Android Studio
+Android Development
