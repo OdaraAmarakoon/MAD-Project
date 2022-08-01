@@ -1,9 +1,9 @@
 # MAD-Project
 # Mobile Application Development project
 
- Language - Java 
+Language - Java 
  
- Android Development
+Android Development
 Group project
 
 Really interested in Android development
